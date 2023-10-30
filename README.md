@@ -176,7 +176,7 @@ print(classification_report(Y_test,predictions))
 
 ![nn1 3](https://github.com/Gayathriraj18/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94154854/0cb469f8-e2b8-4f5a-b728-9a00333be2bf)
 
-![nn1 3](https://github.com/Gayathriraj18/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94154854/67b77868-cbb6-4b1b-947f-307adbcc6ee7)
+![nn1 4](https://github.com/Gayathriraj18/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94154854/61a830e9-b4c5-409a-8cf4-b4f76c138230)
 
 ![nn1 5](https://github.com/Gayathriraj18/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94154854/896b3cef-b06c-42bf-b358-11f5339127b5)
 
